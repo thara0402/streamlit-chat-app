@@ -26,7 +26,7 @@ $ .venv\Scripts\activate.bat
 
 ### Install Streamlit in environment
 ```shell-session
-$ pip install streamlit
+$ pip install streamlit openai python-dotenv
 ```
 
 ### Run Streamlit app
